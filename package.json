@@ -1,6 +1,6 @@
 {
   "name": "@hideokamoto/markov-chain-kuromoji",
-  "version": "0.5.2",
+  "version": "0.1.0",
   "description": "markov chain generator by using kuromoji tokenizer",
   "main": "dist/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "test:dev": "jest --watch --silent=false --verbose false --coverage"
   },
   "keywords": [
-    "stripe"
+    "markov chain"
   ],
   "bugs": {
     "url": "https://github.com/hideokamoto/markov-chain-kuromoji/issues"
