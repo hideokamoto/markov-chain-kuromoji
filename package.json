@@ -1,7 +1,7 @@
 {
   "name": "@hideokamoto/markov-chain-kuromoji",
   "version": "0.5.2",
-  "description": "utility functions for ask-sdk",
+  "description": "markov chain generator by using kuromoji tokenizer",
   "main": "dist/index.js",
   "scripts": {
     "build": "rollup -c",
@@ -59,6 +59,7 @@
   },
   "devDependencies": {
     "@types/jest": "^24.0.16",
+    "@types/kuromoji": "^0.1.0",
     "@types/node": "^12.6.9",
     "@typescript-eslint/eslint-plugin": "^1.13.0",
     "@typescript-eslint/parser": "^1.13.0",
@@ -71,6 +72,7 @@
     "eslint-plugin-standard": "^4.0.0",
     "husky": "^3.0.2",
     "jest": "^24.8.0",
+    "kuromoji": "^0.1.2",
     "lint-staged": "^9.2.1",
     "rollup": "^1.18.0",
     "rollup-plugin-typescript2": "^0.22.1",
