@@ -7,6 +7,8 @@ generates markov chain words powered by kuromoji.js
 ```bash
 $ npm install -S @hideokamoto/markov-chain-kuromoji
 ```
+## Docs
+https://hideokamoto.github.io/markov-chain-kuromoji/index.html
 
 ## Usage
 
